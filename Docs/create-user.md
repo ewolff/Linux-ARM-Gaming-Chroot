@@ -99,5 +99,5 @@ If everything went well we can install Box86 and Box64.
 
 ---
 
-[< Setting up the container](create-chroot.md) | [Installng Box86/Box64 >](install-box86_64.md)
+[< Setting up the container](create-chroot.md) | [Installing Box86/Box64 >](install-box86_64.md)
 
